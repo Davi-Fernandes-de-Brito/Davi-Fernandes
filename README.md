@@ -14,14 +14,15 @@ Atualmente, estou aprendendo a desenvolver aplicações, organizar códigos e tr
 - CSS3
 - JavaScript
 - Git e GitHub
+- JavaScript modular
+- Consumo de APIs
+- Desenvolvimento de interfaces
 - React (em aprendizado)
 
 ## Atualmente estudando
 
-- JavaScript modular
-- Consumo de APIs
-- Desenvolvimento de interfaces
 - Organização e estruturação de projetos
+- React
 
 ## Projetos
 
