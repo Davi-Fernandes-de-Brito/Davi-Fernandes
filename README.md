@@ -1,6 +1,6 @@
 # Davi-Fernandes
 
-# Olá! Eu sou Davi 👋
+# Olá! Eu sou Davi Fernandes
 
 ### Estudante de Desenvolvimento Full Stack
 
